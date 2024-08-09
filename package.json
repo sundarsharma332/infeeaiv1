@@ -1,0 +1,17 @@
+{
+  "name": "infeeai",
+  "version": "1.0.0",
+  "description": "Infeeai is the ai powered bot which helps users coding and preparing courses and promotes the self learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "bot",
+    "self",
+    "learning"
+  ],
+  "author": "infeeai",
+  "license": "ISC"
+}
